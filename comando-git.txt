@@ -1,12 +1,16 @@
 git status - listas os status dos arquivos 
 
-git add . - adiciona todos os arquivos não sincronizados 
+1 git add . - adiciona todos os arquivos não sincronizados 
 
 . - diretório atual 
-git commit -m "mensagem" - atribui uma mensagem aos arquivos que serão feitos upload 
+ 2 git commit -m "mensagem" - atribui uma mensagem aos arquivos que serão feitos upload 
 
-git push origin master - ele cria uma ramificação principal 
+git push origin master - ele empurra as modificações para uma ramificação principal 
 
 git branch -D <name> deletar uma ramificação secundária 
 
 git checkout -b myFeature(nome) dev(modelo) - criar uma ramificação sencundário com base em outra ramificação 
+
+git branch - lista as ramificações 
+
+git branch <nome> - cria uma ramificação
