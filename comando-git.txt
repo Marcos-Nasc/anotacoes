@@ -3,7 +3,6 @@ git status - listas os status dos arquivos
 git add . - adiciona todos os arquivos não sincronizados 
 
 . - diretório atual 
-
 git commit -m "mensagem" - atribui uma mensagem aos arquivos que serão feitos upload 
 
 git push origin master - ele cria uma ramificação principal 
