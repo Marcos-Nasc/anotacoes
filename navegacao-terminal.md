@@ -11,3 +11,5 @@ pwd - onde q estou
 mkdir - cria uma pasta
 
 tab - faz um auto complete
+
+rm -rf <pasta>- eliminar pastas e subpastas 
